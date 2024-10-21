@@ -1,7 +1,7 @@
 ---
 date: '2024-10-20T11:43:49+08:00'
-draft: true
 title: 'Hello World!'
+draft: false
 ---
 
 # Init
