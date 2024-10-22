@@ -11,6 +11,10 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-20T11:43:49+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
     <loc>http://localhost:1313/%E6%A0%87%E7%AD%BE/</loc>
   </url><url>
     <loc>http://localhost:1313/%E7%9B%AE%E5%BD%95/</loc>
