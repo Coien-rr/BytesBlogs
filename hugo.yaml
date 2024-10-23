@@ -13,7 +13,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: ["posts"]
 minify:
   disableXML: true
   # minifyOutput: true
@@ -55,9 +55,9 @@ params:
     imageHeight: 250
     subtitle: "👾 Learn To Think, Learn To Code More"
     buttons:
-      - name: Blog
+      - name: 博客
         url: posts
-      - name: GitHub
+      - name: 开源主页
         url: https://github.com/Coien-rr
         # socialIcons:
         #   - name: github
@@ -88,7 +88,7 @@ params:
 
       - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  environment: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Co.operr's Space Record Everything Interesting"
   author: Co.operr
   defaultTheme: auto
@@ -116,7 +116,6 @@ params:
   #         SiteVerificationTag: "XYZabc"
   assets:
     disableHLJS: true
-  
   # cover:
   #   hidden: true # hide everywhere but not in structured data
   #   hiddenInList: true # hide on list pages and home
@@ -133,7 +132,6 @@ params:
     goldmark:
       renderer:
         unsafe: true
-
     highlight:
       noClasses: false
   # anchorLineNos: true
