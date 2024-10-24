@@ -23,9 +23,9 @@ languages:
     weight: 1
     title: Co.operr's Blog
     taxonomies:
-      category: 目录
-      tag: 标签
-      series: 系列
+      category: categories
+      series: series
+      tag: tags
     menu:
       main:
         - name: 文稿
